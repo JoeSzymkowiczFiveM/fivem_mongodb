@@ -1,0 +1,10 @@
+{
+    "name": "fivem_mongodb",
+    "version": "1.0.0",
+    "main": "index.js",
+    "private": true,
+    "license": "MIT",
+    "dependencies": {
+        "mongodb": "^6.2.0"
+    }
+}
