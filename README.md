@@ -22,7 +22,7 @@ A FiveM resource to communicate with a MongoDB database using [mongodb](https://
 exec "database.cfg"
 start fivem_mongodb
 ```
-- Change `mongodb_url`, and `mongodb_database` in `database.cfg`.
+- Change `mongodb_url`, and `mongodb_db` in `database.cfg`.
 - Run `npm install` in `resources/fivem_mongodb` directory.
 
 
